@@ -23,7 +23,7 @@ _A simple and effective app to manage your monthly expenses, built with HTML, CS
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/samar-anand-a87642287/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samar-anand-a87642287/)
 
 ---
 
