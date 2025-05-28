@@ -9,7 +9,7 @@
 
 - 🌱 Currently growing my skills in AI/ML, backend development, and full-stack technologies.
 - 🛠️ I love working with:
-  - **JavaScript | Python | CSS | HTML | SQL**
+  - **JavaScript | Python | CSS | HTML | SQL | C++**
 - 🌟 Always curious about new tech and open to collaboration!
 
 ---
