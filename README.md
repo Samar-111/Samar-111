@@ -16,7 +16,7 @@
 
 ## 📌 Featured Project
 
-### [Monthly Budget Tracker](https://github.com/Samar-111/Monthly-budget-tracker)##
+###https://github.com/Samar-111/music-player###
 _A simple and effective app to manage your monthly expenses, built with HTML, CSS, and JavaScript._
 
 ---
