@@ -16,8 +16,8 @@
 
 ## 📌 Featured Project
 
-###https://github.com/Samar-111/music-player###
-_A simple and effective app to manage your monthly expenses, built with HTML, CSS, and JavaScript._
+###[Music player]https://github.com/Samar-111/music-player###
+_A simple and effective music player, built with HTML, CSS, react and JavaScript._
 
 ---
 
