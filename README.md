@@ -16,8 +16,8 @@
 
 ## 📌 Featured Project
 
-###[Fake-News-Detection]https://github.com/Samar-111/Fake-News-Detection###
-_A simple and effective music player, built with HTML, CSS, react and JavaScript._
+[Fake-News-Detection]https://github.com/Samar-111/Fake-News-Detection
+_A simple and effective machine learning model use for detecting fake news._
 
 ---
 
