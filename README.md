@@ -16,7 +16,7 @@
 
 ## 📌 Featured Project
 
-###[Music player]https://github.com/Samar-111/music-player###
+###[Fake-News-Detection]https://github.com/Samar-111/Fake-News-Detection###
 _A simple and effective music player, built with HTML, CSS, react and JavaScript._
 
 ---
