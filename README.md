@@ -17,7 +17,7 @@
 ## 📌 Featured Project
 
 [Job-portal]https://github.com/Samar-111/job-portal
-_A simple and effective machine learning model use for detecting fake news._
+_A modern, responsive Job Portal application built with the MERN Stack (MongoDB, Express, React, Node.js). This application features a glassmorphism UI, secure user authentication, and real-time job searching using external APIs._
 
 ---
 
