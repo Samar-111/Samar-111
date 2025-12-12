@@ -16,7 +16,7 @@
 
 ## 📌 Featured Project
 
-[Fake-News-Detection]https://github.com/Samar-111/Fake-News-Detection
+[Job-portal]https://github.com/Samar-111/job-portal
 _A simple and effective machine learning model use for detecting fake news._
 
 ---
