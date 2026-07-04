@@ -88,6 +88,11 @@ A modern and responsive **Job Portal application** built using the **MERN Stack*
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samar-111&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samar-111&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
 
 
 <p align="center">
