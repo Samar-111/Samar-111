@@ -3,106 +3,227 @@
 <h3 align="center">Computer Science Student | AI/ML & Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI%2FML+%7C+Full+Stack+Developer;Building+Projects+That+Solve+Real+Problems;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI%2FML+%7C+Full+Stack+Developer;Building+Scalable+Software;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science student passionate about software development and problem solving.
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, Backend Development, and Full-Stack Development**.
-- 🌱 Currently improving my **DSA, System Design, and Backend Development** skills.
-- 💡 Love building real-world applications that solve practical problems.
-- 🤝 Open to collaborating on **AI/ML, Full-Stack, and Backend** projects.
-- 🎯 Goal: Become a Software Engineer building scalable and impactful products.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,mysql&perline=7"/>
-</p>
-
-### Frameworks & Libraries
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4"/>
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4"/>
+  <a href="https://github.com/Samar-111">
+    <img src="https://img.shields.io/badge/GitHub-Samar--111-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samar-anand-a87642287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samar%20Anand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Sam9798/">
+    <img src="https://img.shields.io/badge/LeetCode-Sam9798-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📌 Featured Project
+# 🚀 About Me
 
-### 💼 Job Portal Application
-
-🔗 **Repository:** https://github.com/Samar-111/job-portal
-
-A modern **MERN Stack Job Portal** that enables users to search, apply, and manage job applications through a clean and responsive interface.
-
-### Features
-
-- 🔐 Secure Authentication & Authorization
-- 🔍 Real-time Job Search
-- 💼 Apply for Jobs
-- 📱 Fully Responsive UI
-- 🎨 Glassmorphism Design
-- ⚡ Fast and Smooth User Experience
-
-### Tech Stack
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
-- HTML
-- CSS
+- 🎓 B.Tech Computer Science (AI & ML) student at **VIT Bhopal University**
+- 💻 Passionate about **Software Engineering, AI, Backend Development, and Full-Stack Development**
+- 🤖 Interested in **Large Language Models, AI Applications, REST APIs, and Cloud Technologies**
+- 🌱 Currently mastering **Data Structures & Algorithms, System Design, and Backend Development**
+- 🚀 Love building scalable products that solve real-world problems
+- 🤝 Open to collaborating on **AI/ML**, **Backend**, and **Full-Stack** projects
+- 🎯 Aspiring Software Engineer
 
 ---
 
-## 📚 Currently Learning
+# 🛠️ Tech Stack
 
-- 📖 Data Structures & Algorithms
-- 🤖 Machine Learning
-- ⚙️ Backend Development with Node.js
-- 🌐 REST APIs
-- 🗄️ Database Design
+## 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css,mysql&perline=8"/>
+</p>
+
+---
+
+## ⚛️ Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,fastapi,tailwind,bootstrap,materialui&perline=5"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=3"/>
+</p>
+
+---
+
+## 🛠️ Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite&perline=6"/>
+</p>
+
+---
+
+## ☁️ Cloud & Services
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TF--IDF-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Classification_Models-4CAF50?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Technologies Used in Projects
+
+<p align="center">
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebContainers-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/xterm.js-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 📚 Core Computer Science
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object_Oriented_Programming-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authorization-3F51B5?style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 Hyperion AI – DB Insights Engine
+
+**Tech Stack:** React • FastAPI • Python • SQLite • OpenAI API
+
+- Generate SQL queries using natural language
+- Intelligent schema understanding
+- Secure SQL validation
+- Interactive conversational UI
+- Dynamic table visualization
+
+🔗 Repository: https://github.com/Samar-111/AI-database-assistant
+
+---
+
+## 💻 CodeForge – AI Powered Cloud IDE
+
+**Tech Stack:** Next.js • TypeScript • MongoDB • Ollama • WebContainers
+
+- AI-assisted coding
+- Browser-based IDE
+- Monaco Editor
+- Integrated Terminal
+- File Explorer
+- AI Code Completion
+
+🔗 Repository: https://github.com/Samar-111/CodeForge
+
+---
+
+## 🏨 Hotel Booking System
+
+**Tech Stack:** MERN Stack
+
+- Hotel Search
+- Room Booking
+- Authentication
+- Admin Dashboard
+- Booking Management
+
+🔗 Repository: https://github.com/Samar-111/Hotel-Booking-System
+
+---
+
+# 📚 Currently Learning
+
+- 📖 Advanced Data Structures & Algorithms
 - 🏗️ System Design
-- 🔄 Git & GitHub
+- 🤖 Generative AI
+- ⚙️ Backend Development
+- ☁️ Cloud Computing
+- 🌐 REST API Design
+- 🛢️ Database Optimization
 
 ---
 
-## 🎯 Goals for 2026
+# 🎯 Goals for 2026
 
-- 🚀 Build more production-ready Full-Stack projects
-- 🧠 Master DSA for Software Engineering interviews
-- 🤖 Develop AI/ML-powered applications
+- 🚀 Build production-ready AI applications
+- 💼 Secure an SDE Internship
 - 🌍 Contribute to Open Source
-- 💼 Secure a Software Development Internship/Placement
+- 🧠 Master DSA
+- ⚡ Learn scalable system design
+- 📈 Reach 500+ LeetCode problems solved
 
 ---
 
-
-
-## 📈 Contribution Graph
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samar-111&theme=tokyo-night&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samar-111&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-111&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Samar-111&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samar-111&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Samar-111&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -114,23 +235,34 @@ A modern **MERN Stack Job Portal** that enables users to search, apply, and mana
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/Sam9798/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:samaranand9798@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 💡 Fun Facts
+# 💡 Fun Facts
 
-- 🤖 I enjoy exploring AI and Machine Learning.
-- 💻 I love turning ideas into real-world applications.
-- 🧩 Solving coding problems is one of my favorite ways to learn.
-- 🚀 Always learning. Always building. Always improving.
+- 🤖 I enjoy building AI-powered applications.
+- 💻 I love solving challenging coding problems.
+- 🚀 Passionate about backend architecture and scalable systems.
+- 🌱 I believe in continuous learning and consistent improvement.
+- ⚡ Favorite languages: **C++** and **Python**.
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Samar-111&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Samar-111&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h2 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h2>
