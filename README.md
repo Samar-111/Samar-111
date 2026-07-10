@@ -102,13 +102,11 @@
 ## 📚 Core Computer Science
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Object_Oriented_Programming-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DBMS-2E8B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Authentication-FF9800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Authorization-3F51B5?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -158,6 +156,40 @@
 
 ---
 
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samar-111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-111&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samar-111&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samar-111&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samar-111&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samar-111&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samar-111&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
 # 📚 Currently Learning
 
 - 📖 Advanced Data Structures & Algorithms
@@ -179,14 +211,10 @@
 - ⚡ Learn scalable system design
 - 📈 Reach 500+ LeetCode problems solved
 
-
-
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Samar-111&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
 
 <h2 align="center">
