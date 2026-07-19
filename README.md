@@ -127,7 +127,7 @@
 
 ---
 
-## 💻 CodeForge – AI Powered Cloud IDE
+## 💻 VibeCode – AI Powered Cloud IDE
 
 **Tech Stack:** Next.js • TypeScript • MongoDB • Ollama • WebContainers
 
