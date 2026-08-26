@@ -138,7 +138,7 @@
 - File Explorer
 - AI Code Completion
 
-🔗 Repository: https://github.com/Samar-111/CodeForge
+🔗 Repository: https://github.com/Samar-111/VibeCode
 
 ---
 
