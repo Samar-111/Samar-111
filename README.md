@@ -1,279 +1,455 @@
-# 👋 Hi, I'm Samar Anand
+<!-- ======================= HERO ======================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+Full+Stack+Developer;Building+AI-Powered+Products;Backend+%7C+Generative+AI+%7C+Web;Turning+Ideas+into+Working+Products+%F0%9F%9A%80" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Samar-111">
-    <img src="https://img.shields.io/badge/GitHub-Samar--111-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/samar-anand-a87642287/">
-    <img src="https://img.shields.io/badge/LinkedIn-Samar%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Sam9798/">
-    <img src="https://img.shields.io/badge/LeetCode-Sam9798-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:7c3aed&height=220&section=header&text=SAMAR%20ANAND&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20FULL%20STACK%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=18"/>
 
----
+<br>
 
-## 🧠 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+%26+Full+Stack+Developer;Building+Intelligent+Products;LLMs+%7C+AI+Agents+%7C+Backend;Turning+Ideas+Into+Production+Systems;Always+Learning.+Always+Building.+%F0%9F%9A%80"/>
 
-🎓 **B.Tech Computer Science (AI & ML)** student at **VIT Bhopal University**
+<br><br>
 
-💻 I build **AI-powered applications, developer tools, and full-stack products**.
+<a href="https://github.com/Samar-111">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-🤖 Interested in **Generative AI, LLM applications, AI agents, backend systems, and scalable software**.
+<a href="https://www.linkedin.com/in/samar-anand-a87642287/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-⚡ I enjoy taking an idea from **problem → architecture → code → deployed product**.
+<a href="https://leetcode.com/u/Sam9798/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-🌱 Currently focused on **DSA, backend engineering, system design, and production-ready AI applications**.
+<br><br>
 
-🎯 **Aspiring Software Engineer / AI Engineer**
+<img src="https://komarev.com/ghpvc/?username=Samar-111&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# ⚡ What I Build
+<!-- ======================= SYSTEM ======================= -->
+
+<h2 align="center">⚡ SYSTEM STATUS</h2>
+
+<div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                         SAMAR.AI                            │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   🤖 AI Applications      → LLMs • Agents • AI APIs       │
-│                                                             │
-│   ⚙️ Backend Systems      → Node.js • FastAPI • REST       │
-│                                                             │
-│   🌐 Full-Stack Products  → React • Next.js • MERN         │
-│                                                             │
-│   🧠 Developer Tools      → AI IDEs • WebContainers        │
-│                                                             │
-│   🗄️ Data & Systems       → MongoDB • PostgreSQL • SQL     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                    SAMAR.AI / SYSTEM                      ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  STATUS        : ONLINE 🟢                                ║
+║  ROLE          : AI / FULL STACK DEVELOPER                ║
+║  FOCUS         : INTELLIGENT SOFTWARE SYSTEMS             ║
+║  CURRENT MODE  : BUILDING 🚀                              ║
+║  LOCATION      : INDIA 🇮🇳                                 ║
+║                                                            ║
+║  AI            ████████████████████░░  90%                 ║
+║  BACKEND       ██████████████████░░░░  85%                 ║
+║  FULL STACK    ███████████████████░░░  88%                 ║
+║  DSA           ████████████████░░░░░░  75%                 ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🧠 About Me
+
+```javascript
+const samar = {
+    education: "B.Tech Computer Science (AI & ML)",
+    university: "VIT Bhopal University",
+
+    interests: [
+        "Generative AI",
+        "LLM Applications",
+        "AI Agents",
+        "Backend Engineering",
+        "Full-Stack Development",
+        "System Design"
+    ],
+
+    currentlyBuilding: [
+        "AI-powered products",
+        "Developer tools",
+        "Intelligent automation"
+    ],
+
+    philosophy:
+        "Build real things, understand how they work, and keep improving."
+};
 ```
 
 ---
 
-# 🚀 Featured Projects
+<!-- ======================= TECH MATRIX ======================= -->
 
-## 💻 VibeCode — AI-Powered Web IDE
+<h2 align="center">🧬 TECH MATRIX</h2>
 
-> **An AI-powered browser IDE for building and running applications directly in the browser.**
+<div align="center">
 
-**Stack:** `Next.js 15` `TypeScript` `Gemini` `Ollama` `WebContainers` `Monaco` `MongoDB` `Prisma`
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,git,docker,vscode&perline=8"/>
 
-* 🤖 AI-powered code generation and inline completion
-* 🧑‍💻 Browser-based development environment
-* 📦 WebContainer-powered application runtime
-* 🖥️ Monaco Editor + integrated terminal
-* 📁 Browser file explorer and workspace management
-* 🔐 Google/GitHub authentication with NextAuth
-* ⚡ Optimized AI completion latency
-* 🧩 Supports multiple application frameworks
+<br><br>
 
-🔗 **[View Repository](https://github.com/Samar-111/VibeCode)**
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,github,npm,sqlite,linux&perline=8"/>
 
----
+<br><br>
 
-## 🏥 MedQueue AI — Intelligent Emergency Triage
-
-> **AI-assisted emergency queue management that helps prioritize patients based on symptoms and urgency.**
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.IO` `Gemini` `OpenAI` `Web Speech API`
-
-* 🎙️ Voice-based patient symptom intake
-* 🧠 AI-assisted ESI priority classification
-* 🚨 Red-flag detection for critical symptoms
-* ⚡ Real-time queue updates using Socket.IO
-* 👩‍⚕️ Nurse station and doctor workbench
-* 🌐 English + Hindi voice interaction
-* 🗄️ MongoDB-backed patient and queue management
-* 🛡️ Structured AI outputs with validation
-
-> **Designed as a triage-support system — final clinical decisions remain with healthcare professionals.**
-
-🔗 **[View Repository](https://github.com/Samar-111/MedQueue-AI)**
-🌐 **[Live Demo](https://med-queue-ai.vercel.app/)**
-
----
-
-## 🛒 Nexus Cart — Voice-Powered Shopping Assistant
-
-> **A voice-first shopping assistant that converts natural speech into structured shopping lists.**
-
-**Stack:** `React` `Node.js` `Express` `MongoDB Atlas` `Gemini` `Web Speech API`
-
-* 🎙️ Convert natural voice into shopping items
-* 🧠 AI-powered item extraction and structuring
-* 🔢 Automatic quantity merging
-* 💰 Estimated pricing with Indian units
-* 🥫 Pantry alerts for frequently purchased items
-* 🌱 Seasonal produce recommendations
-* 🥗 Dietary alternatives and substitutions
-* ⚡ Full-stack real-time shopping workflow
-
-🔗 **[View Repository](https://github.com/Samar-111/Nexus-Cart)**
-
----
-
-## 🧠 Hyperion AI — Database Insights Engine
-
-> **Ask questions about your database in natural language and turn them into useful SQL insights.**
-
-**Stack:** `React` `FastAPI` `Python` `SQLite` `OpenAI API`
-
-* 💬 Natural-language database queries
-* 🧠 Schema-aware SQL generation
-* 🔐 SQL validation before execution
-* 📊 Interactive result visualization
-* ⚡ Conversational database exploration
-* 🔌 REST API powered backend
-
-🔗 **[View Repository](https://github.com/Samar-111/AI-database-assistant)**
-
----
-
-# 🛠️ Tech Arsenal
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres"/>
-</p>
-
-### AI / Developer Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode"/>
-</p>
-
-<p align="left">
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WebContainers-1E293B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-</p>
+
+</div>
 
 ---
 
-# 🧩 Engineering Interests
+# 🚀 PROJECTS // BUILT FROM ZERO
+
+<div align="center">
+
+### 💻 VibeCode
+
+<img src="https://img.shields.io/badge/AI%20POWERED%20WEB%20IDE-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"/>
+
+</div>
+
+> A browser-based AI development environment designed to let developers **write, run and iterate on applications without leaving the browser.**
 
 ```text
-Artificial Intelligence
-        ↓
-LLM Applications
-        ↓
-AI Agents & Automation
-        ↓
-Backend APIs
-        ↓
-Distributed / Real-Time Systems
-        ↓
-Scalable Full-Stack Products
+User
+ │
+ ▼
+┌───────────────┐
+│  AI Assistant │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ Monaco Editor │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ WebContainers │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ Running App   │
+└───────────────┘
 ```
 
-### Currently exploring
+**Next.js • TypeScript • Gemini • Ollama • WebContainers • Monaco • MongoDB • Prisma**
 
-* 🤖 Generative AI & LLM applications
-* 🧠 AI agents and tool calling
-* ⚙️ Backend architecture
-* 🏗️ System Design
-* 🗄️ Database optimization
-* 🔐 Authentication & authorization
-* 🌐 REST API design
-* 📊 Data Structures & Algorithms
-* ☁️ Cloud deployment
+🔗 **[Explore VibeCode →](https://github.com/Samar-111/VibeCode)**
 
 ---
 
-# 📈 GitHub Activity
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samar-111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-111&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 🏥 MedQueue AI
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samar-111&theme=tokyonight"/>
-</p>
+<img src="https://img.shields.io/badge/AI%20EMERGENCY%20TRIAGE-0f172a?style=for-the-badge&logo=google&logoColor=38BDF8"/>
+
+</div>
+
+> AI-assisted emergency queue management that converts patient symptoms into structured triage information and helps prioritize the queue.
+
+```text
+🎙️ Patient Voice
+       │
+       ▼
+📝 Speech → Text
+       │
+       ▼
+🤖 AI Symptom Analysis
+       │
+       ▼
+🚨 ESI Priority + Red Flags
+       │
+       ▼
+⚡ Queue Reordering
+       │
+       ▼
+👩‍⚕️ Nurse / Doctor Dashboard
+       │
+       ▼
+🔄 Real-Time Updates
+```
+
+**React • Node.js • Express • Gemini • OpenAI • MongoDB • Socket.IO**
+
+🔗 **[Repository →](https://github.com/Samar-111/MedQueue-AI)**
+🌐 **[Live Demo →](https://med-queue-ai.vercel.app/)**
+
+> ⚠️ Designed as a triage-support system. Final clinical decisions remain with healthcare professionals.
 
 ---
 
-# 🧠 Problem Solving
+<div align="center">
 
-<p align="center">
+### 🛒 Nexus Cart
+
+<img src="https://img.shields.io/badge/VOICE%20SHOPPING%20ASSISTANT-0f172a?style=for-the-badge&logo=google&logoColor=38BDF8"/>
+
+</div>
+
+```text
+          🎙️
+      "Add 2 kg rice
+       and milk"
+
+           │
+           ▼
+
+    ┌──────────────┐
+    │   Gemini AI  │
+    └──────┬───────┘
+           │
+           ▼
+    Structured Items
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+  Quantity     Units
+     │           │
+     └─────┬─────┘
+           ▼
+      🛒 Cart
+```
+
+**React • Node.js • Express • Gemini • MongoDB Atlas • Web Speech API**
+
+* 🎙️ Natural voice shopping
+* 🧠 AI item extraction
+* 🔢 Quantity merging
+* 💰 Price estimation
+* 🥫 Pantry alerts
+* 🌱 Seasonal recommendations
+* 🥗 Dietary alternatives
+
+🔗 **[Repository →](https://github.com/Samar-111/Nexus-Cart)**
+
+---
+
+<div align="center">
+
+### 🧠 Hyperion AI
+
+<img src="https://img.shields.io/badge/NATURAL%20LANGUAGE%20DATABASE%20ENGINE-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+
+</div>
+
+```text
+"Show me users created this month"
+              │
+              ▼
+        🤖 LLM Analysis
+              │
+              ▼
+        🧠 Schema Context
+              │
+              ▼
+          SQL Query
+              │
+              ▼
+       🔐 SQL Validation
+              │
+              ▼
+          Database
+              │
+              ▼
+        📊 Visual Result
+```
+
+**React • FastAPI • Python • SQLite • OpenAI**
+
+🔗 **[Repository →](https://github.com/Samar-111/AI-database-assistant)**
+
+---
+
+# 🌐 AI ARCHITECTURE
+
+<div align="center">
+
+```text
+                    ┌─────────────────┐
+                    │     USER        │
+                    └────────┬────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │   APPLICATION UI   │
+                  │ React / Next.js     │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │    BACKEND APIs     │
+                  │ Node / FastAPI      │
+                  └──────────┬──────────┘
+                             │
+               ┌─────────────┼─────────────┐
+               ▼             ▼             ▼
+        ┌────────────┐ ┌────────────┐ ┌────────────┐
+        │    LLM     │ │  DATABASE  │ │ REAL-TIME  │
+        │ Gemini     │ │ MongoDB    │ │ Socket.IO  │
+        │ OpenAI     │ │ PostgreSQL │ │            │
+        │ Ollama     │ │ SQLite     │ │            │
+        └────────────┘ └────────────┘ └────────────┘
+```
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Samar-111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-111&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samar-111&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🧊 3D CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-profile-3d-contrib.vercel.app/profile/Samar-111?theme=tokyo-night&show_total_contributions=true"/>
+
+</div>
+
+---
+
+# 🧩 PROBLEM SOLVING
+
+<div align="center">
 
 <a href="https://leetcode.com/u/Sam9798/">
+
 <img src="https://img.shields.io/badge/LeetCode-DSA%20%26%20Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
 </a>
 
-</p>
+<br><br>
 
-Focused on:
+`Arrays` • `Strings` • `Linked Lists` • `Trees` • `Graphs`
 
-`Arrays` `Strings` `Linked Lists` `Trees` `Graphs` `Dynamic Programming` `Greedy` `Binary Search`
+`Binary Search` • `Greedy` • `Dynamic Programming`
+
+</div>
 
 ---
 
-# 🎯 2026 Mission
+# 🎯 2026 ROADMAP
 
 ```text
-[ ✓ ] Build real AI-powered products
-[ ✓ ] Build full-stack applications
-[ → ] Strengthen DSA
-[ → ] Master System Design
-[ → ] Build production-ready AI systems
-[ → ] Contribute to Open Source
-[ → ] Secure an SDE / AI Engineering Internship
+                         2026
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+      🤖 AI SYSTEMS     ⚙️ BACKEND       🧠 DSA
+          │                │                │
+          ▼                ▼                ▼
+      LLM Apps         System Design    Algorithms
+          │                │                │
+          ▼                ▼                ▼
+      AI Agents        Scalable APIs     Problem Solving
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                  🚀 SOFTWARE ENGINEER
 ```
+
+### Mission
+
+* [x] Build AI-powered products
+* [x] Build full-stack applications
+* [x] Explore LLM applications
+* [ ] Master advanced DSA
+* [ ] Strengthen System Design
+* [ ] Build production-grade AI systems
+* [ ] Contribute to Open Source
+* [ ] Secure an SDE / AI Engineering Internship
 
 ---
 
-# 🤝 Let's Build Something
+# ⚡ CURRENTLY BUILDING
 
-I'm open to collaborating on:
+<div align="center">
 
-**AI/ML • Generative AI • AI Agents • Backend • Full Stack • Developer Tools**
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│       ███████╗ █████╗ ███╗   ███╗ █████╗    │
+│       ██╔════╝██╔══██╗████╗ ████║██╔══██╗   │
+│       ███████╗███████║██╔████╔██║███████║   │
+│       ╚════██║██╔══██║██║╚██╔╝██║██╔══██║   │
+│       ███████║██║  ██║██║ ╚═╝ ██║██║  ██║   │
+│       ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   │
+│                                              │
+│       BUILD → LEARN → SHIP → REPEAT         │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
 
-<p align="center">
+</div>
+
+---
+
+# 🤝 CONNECT
+
+<div align="center">
+
+**Interested in AI, software engineering, or building something interesting?**
+
+<br>
 
 <a href="https://github.com/Samar-111">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/samar-anand-a87642287/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samar-111&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<div align="center">
 
-<h3 align="center">
-  Building. Learning. Shipping. 🚀
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0ea5e9,100:0f172a&height=130&section=footer&animation=fadeIn"/>
+
+</div>
