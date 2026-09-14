@@ -100,64 +100,56 @@ Natural language → SQL → validation → database insights.
 
 ---
 
-# 🌌 DEVELOPER DASHBOARD
+# 🌌 BUILD STACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samar-111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,typescript,mongodb&perline=6"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-111&layout=donut&theme=tokyonight&hide_border=true" width="42%"/>
+<br><br>
 
-</div>
+<img src="https://skillicons.dev/icons?i=fastapi,express,tailwind,vite,git,docker&perline=6"/>
 
-<br>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samar-111&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🧬 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samar-111&theme=tokyonight" width="95%"/>
+<img src="https://img.shields.io/badge/AI-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCAL_AI-Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REAL_TIME-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🐍 CODE ACTIVITY
+# 🧠 WHAT I LIKE BUILDING
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"/>
+|     🤖 AI     | ⚙️ BACKEND | 🌐 FULL STACK | 🧑‍💻 DEV TOOLS |
+| :-----------: | :--------: | :-----------: | :-------------: |
+|    LLM Apps   |  REST APIs |     React     |     AI IDEs     |
+|   AI Agents   |   Node.js  |    Next.js    |  WebContainers  |
+| AI Automation |   FastAPI  |    MongoDB    | Developer Tools |
 
 </div>
 
 ---
 
-# 💡 CURRENTLY EXPLORING
+# 🔥 CURRENT FOCUS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Generative+AI;LLM+Applications;AI+Agents;Backend+Architecture;System+Design;Scalable+APIs;Data+Structures+%26+Algorithms" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Exploring+LLM+%26+Agentic+Systems;Improving+Backend+Architecture;Solving+DSA+Problems;Learning+System+Design;Shipping+Real+Products+%F0%9F%9A%80"/>
 
 </div>
 
 ---
 
-# 🎯 2026 MISSION
+# 🐍 CONTRIBUTION
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-IN%20PROGRESS-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-IN%20PROGRESS-0072FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-IN%20PROGRESS-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-NEXT-2563EB?style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub contribution snake"/>
 
 </div>
 
@@ -168,9 +160,5 @@ Natural language → SQL → validation → database insights.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,50:0072FF,100:00C6FF&height=80&section=footer&text=BUILD%20%7C%20LEARN%20%7C%20SHIP&fontSize=25&fontColor=FFFFFF&animation=fadeIn"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Samar-111&label=PROFILE+VIEWS&color=00C6FF&style=for-the-badge"/>
 
 </div>
